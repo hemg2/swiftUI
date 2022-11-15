@@ -38,6 +38,7 @@
 		6379A8B3292374DF00E1DB6E /* ProfileHost.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6379A8B2292374DF00E1DB6E /* ProfileHost.swift */; };
 		6379A8B52923753000E1DB6E /* ProfileSummary.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6379A8B42923753000E1DB6E /* ProfileSummary.swift */; };
 		6379A8B7292376EE00E1DB6E /* HikeBadge.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6379A8B6292376EE00E1DB6E /* HikeBadge.swift */; };
+		6379A8B9292384C800E1DB6E /* ProfileEditor.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6379A8B8292384C800E1DB6E /* ProfileEditor.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -73,6 +74,7 @@
 		6379A8B2292374DF00E1DB6E /* ProfileHost.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileHost.swift; sourceTree = "<group>"; };
 		6379A8B42923753000E1DB6E /* ProfileSummary.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileSummary.swift; sourceTree = "<group>"; };
 		6379A8B6292376EE00E1DB6E /* HikeBadge.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HikeBadge.swift; sourceTree = "<group>"; };
+		6379A8B8292384C800E1DB6E /* ProfileEditor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileEditor.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -216,6 +218,7 @@
 				6379A8B2292374DF00E1DB6E /* ProfileHost.swift */,
 				6379A8B42923753000E1DB6E /* ProfileSummary.swift */,
 				6379A8B6292376EE00E1DB6E /* HikeBadge.swift */,
+				6379A8B8292384C800E1DB6E /* ProfileEditor.swift */,
 			);
 			path = Profile;
 			sourceTree = "<group>";
@@ -310,6 +313,7 @@
 				6379A89C2923524F00E1DB6E /* Hike.swift in Sources */,
 				6379A8952923474B00E1DB6E /* RotatedBadgeSymbol.swift in Sources */,
 				6379A8932923463C00E1DB6E /* BadgeSymbol.swift in Sources */,
+				6379A8B9292384C800E1DB6E /* ProfileEditor.swift in Sources */,
 				6379A887292233D800E1DB6E /* LandmarkList.swift in Sources */,
 				6379A8A5292354FC00E1DB6E /* HikeView.swift in Sources */,
 				6379A8892922611000E1DB6E /* LandmarkDetail.swift in Sources */,
